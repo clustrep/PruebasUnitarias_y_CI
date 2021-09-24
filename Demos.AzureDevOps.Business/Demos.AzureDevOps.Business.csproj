@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Demos.AzureDevOps.Common\Demos.AzureDevOps.Common.csproj" />
+    <ProjectReference Include="..\Demos.AzureDevOps.Data\Demos.AzureDevOps.Data.csproj" />
+  </ItemGroup>
+
+</Project>
